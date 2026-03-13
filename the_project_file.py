@@ -5,4 +5,5 @@ x = 34
 
 z = x + y
 
-print("The answer is:", x)
+print("The answer is:", z)
+# fixed bug - replaced x with z
